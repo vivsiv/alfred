@@ -6,19 +6,24 @@
   "description": "The butler",
   "dependencies": {
     "hubot": "^2.19.0",
+    "hubot-darts": "^1.0.4",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.2.6",
+    "hubot-espn": "^1.0.3",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.2.0",
     "hubot-heroku-keepalive": "^1.0.2",
+    "hubot-insulter": "^1.0.2",
+    "hubot-jokes": "0.0.12",
     "hubot-longtext": "^3.1.0",
     "hubot-maps": "0.0.2",
+    "hubot-meme": "^1.3.2",
     "hubot-messenger-bot": "^1.0.1",
-    "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.17.2",
-    "hubot-shipit": "^0.2.0"
+    "hubot-star-wars": "^0.2.0",
+    "hubot-stocks": "0.0.3",
+    "hubot-voting": "^1.0.0"
   },
   "engines": {
     "node": "0.10.x"
